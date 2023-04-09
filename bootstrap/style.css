@@ -1,0 +1,18 @@
+.color-special {
+    background-color: black;
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.googlemaps{
+    margin-left: 50px;
+}
+.social-icons{
+    font-size: 30px;
+}
+.social-icons{
+    color: aqua;
+}
